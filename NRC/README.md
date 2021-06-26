@@ -1,6 +1,7 @@
 # NRC
 
 > Find the flag :)
+
 > no-right-click.hsc.tf
 
 The webpage looks like this:
